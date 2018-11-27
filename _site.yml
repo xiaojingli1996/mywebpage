@@ -7,4 +7,4 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage"
+  title: "My First Academic Webpage"

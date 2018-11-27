@@ -1,20 +1,27 @@
 ---
-title: "My Academic Website"
-
+title: "XIAOJING LI"
 ---
+
+
 
 ![institute of Neuroscience & Psychology](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQGK2aoJkIzzX3ujLz7dCT7r5il7Cg1sL-d49FgCVluc0P7d5VQ)
 
 
-## XIAOJING LI
-HELLO!
+## Welcome To My Academic Website
+HELLO!  My name is Xiaojing Li.
 
 I am a postgraduate student at University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) and under supervision of [EstherPapies](https://www.gla.ac.uk/schools/psychology/staff/estherpapies/). To read her work and download publications, see [Esther Papies's website](http://healthycognitionlab.org/). 
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) and under supervision of [EstherPapies](https://www.gla.ac.uk/schools/psychology/staff/estherpapies/).
 
 
-My dissertation mainly focuses on the role of decentering through meditation experiences on resilience of stressful events and perceived academic stress among university students. My undergraduate focused on the relationship of academic idendity between different academic disciplines and mental health. So, the main area of my research is university students' mental health and psychological wellbeing in a university level. You can contact me via email if you have questions.
+My dissertation mainly focuses on the role of decentering through meditation experiences on resilience of stressful events and perceived academic stress among university students. My undergraduate focused on the relationship of academic idendity between different academic disciplines and mental health. So, the main area of my research is university students' mental health and psychological wellbeing in a university level. You can contact me via email if you have questions. 
 
+
+To read more about Esther Papies's work see [here](http://healthycognitionlab.org/). 
+
+To download publications of her research [here]("https://www.gla.ac.uk/schools/psychology/staff/estherpapies/").
+
+---
 
 ### EDUCATION (PERSONAL ACADEMIC HISTORY)
 
@@ -44,6 +51,7 @@ Awarded Class: First Class
  
 Supervisor: Dr. [Hongxin Lin](http://www.psy.ldu.cn/ )
 
+---
 
 ### RESEARCH INTERESTS 
 * Applied Statistics in Educational Research. Survey Research Methods. Higher education. Academic Identity.
@@ -52,6 +60,7 @@ Supervisor: Dr. [Hongxin Lin](http://www.psy.ldu.cn/ )
 
 * Health cognition. Youth Mental Health and Psychological Wellbeing. Perceived Stress and Resilience.
 
+---
 
 ### RESEARCH/TEACHING   EXPERIENCES 
 
@@ -85,6 +94,7 @@ Department of Psychology,  [University of Ludong]("http://www.ldu.edu.cn/")
 
 Organized laboratory experiments in Psychology, evaluate the relevance of cognitive dissonance theory in understanding research evidence on attitudes; the effect of age and gender differences on the recognition of female faces
 
+---
 
 ### RESEARCH SKILLS AND KNOWLEDGE
 
@@ -108,22 +118,28 @@ Organized laboratory experiments in Psychology, evaluate the relevance of cognit
 
 *An understanding of developing a critical awareness of current issues in experimental psychology and cognitive sciences and related areas. 
 
+---
+
 ### RELATED PROFESSIONAL SKILLS
 
 *Time management  
 
 *Academic writing 
 
-*Language: Native Mandarin speaker; Fluent English speaking
+*Language: Native Mandarin speaker;  English 
 
 *Membership: [British Psychological Society](https://www.bps.org.uk/)
 
+---
 
 ### CONFERENCES AND PRESENTATIONS  
 
 2017 Keele Active Lives a Minds program on "Keele students" perceptions of [mental health](https://www.keele.ac.uk/pchs/research/mentalhealth/)
 
 2017 FYP [poster presentation](POSTER.pptx) on "The relationship between academic identity and mental health among LAW and PSYCHOLOGY undergraduates at KEELE"
+
+---
+
 
 ## MY CONTACT INFORMATION:
 
@@ -133,9 +149,18 @@ Telephone:	+44 (0)7713176145
 
 EMail : [2369608L@student.gla.ac.uk]("http://www.psy.gla.ac.uk/staff/?id=XL003")
 
-Homepage	[Personal website](http://file://localhost/Users/mac/MYWEBPAGE/docs/index.html)
+You can also send message to me on [Twitter]("https://twitter.com/kylie233333") or [Facbook]("https://www.facebook.com/li.xiao.142240")
 
-I can link to [Google](http://google.com) or to [my own academic page](text.html)
+
+---
+
+
+### ABOUT 
+
+Homepage	[Personal Academic Website](http://file://localhost/Users/mac/MYWEBPAGE/docs/index.html)
+
+You can EXPLORE MORE with a link to [Google](http://google.com) or back to [My Academic Page]("https://github.com/xiaojingli1996/mywebpage")
+
 
 
 
