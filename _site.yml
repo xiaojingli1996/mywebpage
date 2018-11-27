@@ -1,5 +1,5 @@
 name: "mywebpage"  
-author: "YOUR NAME"  
+author: "XIAOJING LI"  
 output_dir: "docs"  
 output:  
   html_document:  
